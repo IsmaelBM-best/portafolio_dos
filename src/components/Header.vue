@@ -15,7 +15,7 @@ export default {
 
 <template>
   <div class="header_ibm">
-    <img src="/src/assets/logo_isma.svg" alt="">
+    <img src="/src/assets/logo_Isma.svg" alt="">
     <button class="contact_button" @click="modalToggle">
       <img src="/src/assets/options.png" alt="">
     </button>
